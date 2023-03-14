@@ -5,8 +5,6 @@ ___
 
 ## Bad code
 
-_Komentarze_
-
 ```c#
 // NIE ZMIENIAC!!! 
 // Najwazniejsza linijka w aplikacji - realizuje calosc dzialania systemu
