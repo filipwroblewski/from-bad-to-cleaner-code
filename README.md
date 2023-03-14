@@ -149,7 +149,7 @@ int multiply(int a, int b)
 
 int divide(int a, int b)
 {
-    if (a == 0)
+    if (b == 0)
     {
         Console.WriteLine("Error: Nie można dzielić przez zero.");
         return 0;
